@@ -1,4 +1,4 @@
-# java-opp-challenge5
+# Java OOP Challenge
 
 ## Task 1: The Basic Syntax Challenge
   Task 1 involves creating an application for parking cost calculation.The java file for Task 1 can be found in the [task1](https://github.com/pitears/java-oop-challenge5/tree/task1/src/main/java/org/example) branch.
